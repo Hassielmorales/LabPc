@@ -1,0 +1,227 @@
+Launching appinitdlls v.20130425
+appinitdlls v.20130425
+(Software) Gets contents of AppInit_DLLs value
+
+AppInit_DLLs
+----------------------------------------
+apppaths v.20120524
+(Software) Gets content of App Paths subkeys
+
+----------------------------------------
+assoc v.20080815
+(Software) Get list of file ext associations
+
+----------------------------------------
+banner v.20081119
+(Software) Get HKLM\SOFTWARE.. Logon Banner Values
+
+----------------------------------------
+bho v.20130408
+(Software) Gets Browser Helper Objects from Software hive
+
+----------------------------------------
+bitbucket v.20080418
+(Software) Get HKLM\..\BitBucket keys\values
+
+----------------------------------------
+clsid v.20130603
+(Software) Get list of CLSID/registered classes
+
+----------------------------------------
+cmd_shell v.20130405
+(Software) Gets shell open cmds for various file types
+
+----------------------------------------
+codeid v.20100608
+(Software) Gets CodeIdentifier DefaultLevel value
+
+----------------------------------------
+ctrlpnl v.20100116
+(Software) Get Control Panel info from Software hive
+
+----------------------------------------
+defbrowser v.20091116
+(Software) Gets default browser setting from HKLM
+
+----------------------------------------
+Launching direct v.20120513
+----------------------------------------
+disablesr v.20120914
+(Software) Gets the value that turns System Restore either on or off
+
+----------------------------------------
+drivers32 v.20130408
+(Software) Get values from the Drivers32 key
+
+----------------------------------------
+drwatson v.20081219
+(Software) Gets Dr. Watson settings from Software hive
+
+----------------------------------------
+emdmgmt v.20120207
+(Software) Gets contents of EMDMgmt subkeys and values
+
+----------------------------------------
+ie_version v.20140717
+(Software) Get IE version and build
+
+----------------------------------------
+imagefile v.20131007
+(Software) Checks IFEO subkeys for Debugger & CWDIllegalInDllSearch values
+
+----------------------------------------
+init_dlls v.20110309
+(Software) Check for odd **pInit_Dlls keys
+
+----------------------------------------
+installedcomp v.20130911
+(Software) Get info about Installed Components and StubPath values
+----------------------------------------
+Launching installer v.20120917
+(Software) Determines product install information
+
+----------------------------------------
+kb950582 v.20081212
+(Software) KB950582 - Gets autorun settings from HKLM hive
+
+----------------------------------------
+----------------------------------------
+macaddr v.20090118
+(Software)  -- 
+
+C:\Users\subta\Desktop\system.reg may not be a valid hive.
+----------------------------------------
+mrt v.20080804
+(Software) Check to see if Malicious Software Removal Tool has been run
+
+----------------------------------------
+msis v.20090911
+(Software) Determine MSI packages installed on the system
+
+----------------------------------------
+networkcards v.20080325
+(Software) Get NetworkCards
+
+----------------------------------------
+Launching networklist v.20120917
+(Software) Collects network info from Vista+ NetworkList key
+
+----------------------------------------
+networkuid v.20100312
+(Software) Gets Network key UID value
+
+----------------------------------------
+product v.20100325
+(Software) Get installed product info
+
+----------------------------------------
+profilelist v.20100219
+(Software) Get content of ProfileList key
+
+----------------------------------------
+regback v.20100219
+(Software) List all tasks along with logfile name and last written date/time
+
+----------------------------------------
+removdev v.200800611
+(Software) Parses Windows Portable Devices key (Vista)
+
+----------------------------------------
+renocide v.20130425
+(Software) Check for Renocide malware
+
+----------------------------------------
+schedagent v.20100817
+(Software) Get SchedulingAgent key contents
+
+----------------------------------------
+secctr v.20100310
+(Software) Get data from Security Center key
+
+----------------------------------------
+sfc v.20100305
+(Software) Get SFC values
+
+----------------------------------------
+shellexec v.20130410
+(Software) Gets ShellExecuteHooks from Software hive
+
+----------------------------------------
+shellext v.20100515
+(Software) Gets Shell Extensions from Software hive
+
+----------------------------------------
+shelloverlay v.20100308
+(Software) Gets ShellIconOverlayIdentifiers values
+
+----------------------------------------
+snapshot v.20080725
+(Software) Check ActiveX comp kill bit; Access Snapshot
+
+----------------------------------------
+soft_run v.20130603
+(Software) [Autostart] Get autostart key contents from Software hive
+
+----------------------------------------
+spp_clients v.20130429
+(Software) Determines volumes monitored by VSS
+
+----------------------------------------
+sql_lastconnect v.20090112
+(Software) MDAC cache of successful connections
+
+----------------------------------------
+ssid v.20100301
+(Software) Get WZCSVC SSID Info
+
+----------------------------------------
+startmenuinternetapps_lm v.20101219
+(SOFTWARE) Start Menu Internet Applications info
+
+----------------------------------------
+svchost v.20100322
+(Software) Get entries from SvcHost key
+
+----------------------------------------
+Launching tracing v.20120509
+----------------------------------------
+uninstall v.20140512
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+----------------------------------------
+urlzone v.20090526
+(Software) URLZONE detection
+
+----------------------------------------
+uac v.20130213
+(Software) Get Select User Account Control (UAC) Values from HKLMSOFTWAREMicrosoftWindowsCurrentVersionPoliciesSystem
+
+----------------------------------------
+virut v.20130425
+(Software) Detect Virut artifacts
+
+----------------------------------------
+win_cv v.20090312
+(Software) Get & display the contents of the Windows\CurrentVersion key
+
+----------------------------------------
+winbackup v.20120812
+(Software) Get Windows Backup
+
+----------------------------------------
+winlogon v.20130425
+(Software) Get values from the WinLogon key
+
+----------------------------------------
+winnt_cv v.20080609
+(Software) Get & display the contents of the Windows NT\CurrentVersion key
+
+----------------------------------------
+winver v.20081210
+(Software) Get Windows version
+
+----------------------------------------
+yahoo_lm v.20101219
+(SOFTWARE) Yahoo Messenger parser
+
+----------------------------------------
