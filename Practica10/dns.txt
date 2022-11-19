@@ -1,21 +1,21 @@
 
-Configuraci¢n IP de Windows
+ConfiguraciÂ¢n IP de Windows
 
     rr1---sn-q4flrnee.googlevideo.com
     ----------------------------------------
     Nombre de registro  . : rr1---sn-q4flrnee.googlevideo.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 355
+    PerÂ¡odo de vida . . . : 355
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : rr1.sn-q4flrnee.googlevideo.com
 
 
     Nombre de registro  . : rr1.sn-q4flrnee.googlevideo.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 355
+    PerÂ¡odo de vida . . . : 355
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 209.85.165.198
 
 
@@ -23,17 +23,17 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : rr1---sn-q4flrnee.googlevideo.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 355
+    PerÂ¡odo de vida . . . : 355
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : rr1.sn-q4flrnee.googlevideo.com
 
 
     Nombre de registro  . : rr1.sn-q4flrnee.googlevideo.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 355
+    PerÂ¡odo de vida . . . : 355
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 209.85.165.198
 
 
@@ -41,33 +41,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.110.133
 
 
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.111.133
 
 
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.108.133
 
 
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.109.133
 
 
@@ -75,33 +75,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.110.133
 
 
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.111.133
 
 
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.108.133
 
 
     Nombre de registro  . : repository-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1549
+    PerÂ¡odo de vida . . . : 1549
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.109.133
 
 
@@ -109,25 +109,25 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : geo.prod.do.dsp.mp.microsoft.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 205
+    PerÂ¡odo de vida . . . : 205
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : geo.prod.do.dsp.trafficmanager.net
 
 
     Nombre de registro  . : geo.prod.do.dsp.trafficmanager.net
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 205
+    PerÂ¡odo de vida . . . : 205
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : array813.prod.do.dsp.mp.microsoft.com
 
 
     Nombre de registro  . : array813.prod.do.dsp.mp.microsoft.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 205
+    PerÂ¡odo de vida . . . : 205
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 52.148.148.114
 
 
@@ -135,25 +135,25 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : api.msn.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 28
+    PerÂ¡odo de vida . . . : 28
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : api-msn-com.a-0003.a-msedge.net
 
 
     Nombre de registro  . : api-msn-com.a-0003.a-msedge.net
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 28
+    PerÂ¡odo de vida . . . : 28
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : a-0003.a-msedge.net
 
 
     Nombre de registro  . : a-0003.a-msedge.net
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 28
+    PerÂ¡odo de vida . . . : 28
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 204.79.197.203
 
 
@@ -161,33 +161,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : user-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 2402
+    PerÂ¡odo de vida . . . : 2402
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.109.133
 
 
     Nombre de registro  . : user-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 2402
+    PerÂ¡odo de vida . . . : 2402
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.111.133
 
 
     Nombre de registro  . : user-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 2402
+    PerÂ¡odo de vida . . . : 2402
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.110.133
 
 
     Nombre de registro  . : user-images.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 2402
+    PerÂ¡odo de vida . . . : 2402
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.108.133
 
 
@@ -195,33 +195,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.108.133
 
 
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.111.133
 
 
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.109.133
 
 
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.110.133
 
 
@@ -229,33 +229,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.108.133
 
 
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.111.133
 
 
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.109.133
 
 
     Nombre de registro  . : avatars.githubusercontent.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.110.133
 
 
@@ -263,33 +263,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.111.154
 
 
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.108.154
 
 
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.109.154
 
 
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.110.154
 
 
@@ -297,33 +297,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.111.154
 
 
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.108.154
 
 
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.109.154
 
 
     Nombre de registro  . : github.githubassets.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1311
+    PerÂ¡odo de vida . . . : 1311
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 185.199.110.154
 
 
@@ -331,9 +331,9 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : blog.tiching.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 56631
+    PerÂ¡odo de vida . . . : 56631
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 93.90.31.196
 
 
@@ -341,9 +341,9 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : blog.tiching.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 56631
+    PerÂ¡odo de vida . . . : 56631
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 93.90.31.196
 
 
@@ -351,9 +351,9 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : array504.prod.do.dsp.mp.microsoft.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 887
+    PerÂ¡odo de vida . . . : 887
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 52.184.216.174
 
 
@@ -361,25 +361,25 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : msedge.api.cdp.microsoft.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 61
+    PerÂ¡odo de vida . . . : 61
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : api.cdp.microsoft.com
 
 
     Nombre de registro  . : api.cdp.microsoft.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 61
+    PerÂ¡odo de vida . . . : 61
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : glb.api.prod.dcat.dsp.trafficmanager.net
 
 
     Nombre de registro  . : glb.api.prod.dcat.dsp.trafficmanager.net
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 61
+    PerÂ¡odo de vida . . . : 61
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 52.184.220.11
 
 
@@ -387,25 +387,25 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : ntp.msn.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 10
+    PerÂ¡odo de vida . . . : 10
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : www-msn-com.a-0003.a-msedge.net
 
 
     Nombre de registro  . : www-msn-com.a-0003.a-msedge.net
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 10
+    PerÂ¡odo de vida . . . : 10
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : a-0003.a-msedge.net
 
 
     Nombre de registro  . : a-0003.a-msedge.net
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 10
+    PerÂ¡odo de vida . . . : 10
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 204.79.197.203
 
 
@@ -413,9 +413,9 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : array505.prod.do.dsp.mp.microsoft.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 538
+    PerÂ¡odo de vida . . . : 538
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 52.184.216.226
 
 
@@ -423,41 +423,41 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : msedge.f.dl.delivery.mp.microsoft.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 65
+    PerÂ¡odo de vida . . . : 65
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : cdp-nlu-shim.trafficmanager.net
 
 
     Nombre de registro  . : cdp-nlu-shim.trafficmanager.net
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 65
+    PerÂ¡odo de vida . . . : 65
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : wildcard.azureedge.net
 
 
     Nombre de registro  . : wildcard.azureedge.net
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 65
+    PerÂ¡odo de vida . . . : 65
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : wildcard.ec.azureedge.net
 
 
     Nombre de registro  . : wildcard.ec.azureedge.net
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 65
+    PerÂ¡odo de vida . . . : 65
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : cs9.wpc.v0cdn.net
 
 
     Nombre de registro  . : cs9.wpc.v0cdn.net
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 65
+    PerÂ¡odo de vida . . . : 65
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 72.21.81.200
 
 
@@ -465,9 +465,9 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : array513.prod.do.dsp.mp.microsoft.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1121
+    PerÂ¡odo de vida . . . : 1121
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 52.184.214.53
 
 
@@ -475,17 +475,17 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : pcdn.brave.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 95
+    PerÂ¡odo de vida . . . : 95
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : 668f2b9105c3407b96acf98b20d8ea95.pacloudflare.com
 
 
     Nombre de registro  . : 668f2b9105c3407b96acf98b20d8ea95.pacloudflare.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 95
+    PerÂ¡odo de vida . . . : 95
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 172.65.10.226
 
 
@@ -493,17 +493,17 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : www.reydes.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 8032
+    PerÂ¡odo de vida . . . : 8032
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : reydes.com
 
 
     Nombre de registro  . : reydes.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 8032
+    PerÂ¡odo de vida . . . : 8032
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 107.180.25.55
 
 
@@ -511,33 +511,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : srtb.msn.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 10
+    PerÂ¡odo de vida . . . : 10
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : www.msn.com
 
 
     Nombre de registro  . : www.msn.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 10
+    PerÂ¡odo de vida . . . : 10
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : www-msn-com.a-0003.a-msedge.net
 
 
     Nombre de registro  . : www-msn-com.a-0003.a-msedge.net
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 10
+    PerÂ¡odo de vida . . . : 10
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : a-0003.a-msedge.net
 
 
     Nombre de registro  . : a-0003.a-msedge.net
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 10
+    PerÂ¡odo de vida . . . : 10
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 204.79.197.203
 
 
@@ -545,9 +545,9 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : suggestqueries-clients6.youtube.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 49
+    PerÂ¡odo de vida . . . : 49
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 216.58.193.142
 
 
@@ -555,17 +555,17 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : rr6---sn-h0auphxqpvn-huts.googlevideo.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 1416
+    PerÂ¡odo de vida . . . : 1416
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : rr6.sn-h0auphxqpvn-huts.googlevideo.com
 
 
     Nombre de registro  . : rr6.sn-h0auphxqpvn-huts.googlevideo.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 1416
+    PerÂ¡odo de vida . . . : 1416
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 187.160.254.145
 
 
@@ -573,33 +573,33 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : pypi.org
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 38186
+    PerÂ¡odo de vida . . . : 38186
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 151.101.128.223
 
 
     Nombre de registro  . : pypi.org
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 38186
+    PerÂ¡odo de vida . . . : 38186
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 151.101.192.223
 
 
     Nombre de registro  . : pypi.org
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 38186
+    PerÂ¡odo de vida . . . : 38186
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 151.101.64.223
 
 
     Nombre de registro  . : pypi.org
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 38186
+    PerÂ¡odo de vida . . . : 38186
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 151.101.0.223
 
 
@@ -607,9 +607,9 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : array501.prod.do.dsp.mp.microsoft.com
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 2813
+    PerÂ¡odo de vida . . . : 2813
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 40.70.229.150
 
 
@@ -617,17 +617,17 @@ Configuraci¢n IP de Windows
     ----------------------------------------
     Nombre de registro  . : tsfe.trafficshaping.dsp.mp.microsoft.com
     Tipo de registro  . . : 5
-    Per¡odo de vida . . . : 190
+    PerÂ¡odo de vida . . . : 190
     Longitud de datos . . : 8
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Registro CNAME. . . . : tsfe.trafficmanager.net
 
 
     Nombre de registro  . : tsfe.trafficmanager.net
     Tipo de registro  . . : 1
-    Per¡odo de vida . . . : 190
+    PerÂ¡odo de vida . . . : 190
     Longitud de datos . . : 4
-    Secci¢n . . . . . . . : respuesta
+    SecciÂ¢n . . . . . . . : respuesta
     Un registro (host). . : 40.65.209.51
 
 
